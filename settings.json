@@ -171,11 +171,18 @@
     "editor.defaultFormatter": "vscode.json-language-features"
   },
   "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
   "workbench.colorTheme": "Min Dark",
   "workbench.editor.empty.hint": "hidden",
   "symbols.hidesExplorerArrows": false,
   "diffEditor.ignoreTrimWhitespace": false,
   "prisma.showPrismaDataPlatformNotification": false,
-  "window.zoomLevel": 1
+  "window.zoomLevel": 1,
+  "workbench.editor.tabActionLocation": "right",
+  "window.titleBarStyle": "native",
+  "workbench.navigationControl.enabled": false,
+  "chat.commandCenter.enabled": false,
+  "window.commandCenter": false,
+  "window.customTitleBarVisibility": "never",
+  "editor.largeFileOptimizations": false
 }
